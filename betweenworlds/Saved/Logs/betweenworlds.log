@@ -1220,3 +1220,203 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2023.04.08-18.10.28:304][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2023.04.08-18.10.28:306][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
 [2023.04.08-18.14.29:005][820]LogDerivedDataCache: C:/Users/bonit/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.177 and deleted 0 files with total size 0 MiB. Scanned 13294 files in 13063 folders with total size 598 MiB.
+[2023.04.08-18.18.08:072][884]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.04.08-18.18.08:078][884]LogContentBrowser: Creating deferred item: NewWorld
+[2023.04.08-18.18.08:090][885]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.04.08-18.18.12:545][151]LogContentBrowser: Attempting asset rename: NewWorld -> FirstWorld
+[2023.04.08-18.18.12:586][151]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-18.18.12:595][151]LogContentBrowser: End creating deferred item NewWorld
+[2023.04.08-18.18.13:928][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.04.08-18.18.15:606][225]LogSlate: Window 'Save Content' being destroyed
+[2023.04.08-18.18.15:615][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.08-18.18.15:739][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.04.08-18.18.15:743][225]LogSavePackage: Moving output files for package: /Game/FirstWorld
+[2023.04.08-18.18.15:743][225]LogSavePackage: Moving 'C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Saved/FirstWorld88A11D704A8A3008B7E7288564057001.tmp' to 'C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/FirstWorld.umap'
+[2023.04.08-18.18.15:782][225]LogFileHelpers: Saving map 'FirstWorld' took 0.051
+[2023.04.08-18.18.15:790][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 350 ms)
+[2023.04.08-18.18.15:791][225]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstWorld.FirstWorld
+[2023.04.08-18.18.15:792][225]Cmd: MAP LOAD FILE="C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/FirstWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.04.08-18.18.15:792][225]LightingResults: New page: Lighting Build
+[2023.04.08-18.18.15:792][225]LoadErrors: New page: Loading map: FirstWorld.umap
+[2023.04.08-18.18.15:795][225]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-18.18.15:795][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-18.18.15:796][225]MapCheck: New page: Map Check
+[2023.04.08-18.18.15:796][225]LightingResults: New page: Lighting Build
+[2023.04.08-18.18.15:803][225]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.08-18.18.15:811][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.04.08-18.18.15:814][225]LogWorld: UWorld::CleanupWorld for FirstWorld, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-18.18.15:814][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-18.18.15:821][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.04.08-18.18.15:829][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.08-18.18.15:831][225]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstWorld'.
+[2023.04.08-18.18.15:831][225]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-18.18.15:832][225]LogAIModule: Creating AISystem for world FirstWorld
+[2023.04.08-18.18.15:871][225]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.08-18.18.15:878][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.08-18.18.15:889][225]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.08-18.18.15:889][225]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2023.04.08-18.18.15:889][225]LogFileHelpers: Loading map 'FirstWorld' took 0.097
+[2023.04.08-18.18.15:896][225]AssetCheck: New page: Asset Save: FirstWorld
+[2023.04.08-18.18.15:897][225]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstWorld.FirstWorld
+[2023.04.08-18.18.32:196][192]LogEditorViewport: Clicking Background
+[2023.04.08-18.18.42:638][816]LogEditorViewport: Clicking Background
+[2023.04.08-18.18.46:660][ 28]LogEditorViewport: Clicking Background
+[2023.04.08-18.18.49:164][156]LogStaticMesh: Display: Building static mesh FlattenPlaneMesh...
+[2023.04.08-18.18.49:167][156]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorLandscapeResources/FlattenPlaneMesh.FlattenPlaneMesh
+[2023.04.08-18.18.49:459][156]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_6 (G8, 128x128 x1x1x1) (Required Memory Estimate: 0.432286 MB), EncodeSpeed: Fast
+[2023.04.08-18.18.49:566][156]LogViewport: Scene viewport resized to 1167x858, mode Windowed.
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: ================================================
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Total job queries 5718, among them cache hits 9 (0.16%)
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Tracking 5519 distinct input hashes that result in 3723 distinct outputs (67.46%)
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: RAM used: 29.87 MB (0.03 GB) of 819.20 MB (0.80 GB) budget. Usage: 3.65%
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Shaders Compiled: 5519
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Jobs assigned 5562, completed 5519 (99.23%)
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Average time worker was idle: 43.09 s
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Time job spent in pending queue: average 489.62 s, longest 746.06 s
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Job execution time: average 10.78 s, max 70.08 s
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Job life time (pending + execution): average 504.21 s, max 747.18
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 762.59 s
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Jobs were issued in 610 batches (only local compilation was used), average 9.12 jobs/batch
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Average processing rate: 7.24 jobs/sec
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Total thread time: 5857.24 s
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Total thread preprocess time: 241.55 s
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Percentage time preprocessing: 4.12%
+[2023.04.08-18.18.51:028][241]LogShaderCompilers: Display: Effective parallelization: 7.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.08-18.18.51:033][241]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.08-18.18.51:033][241]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 30.89 sec, max 67.20 sec, min 4.50 sec)
+[2023.04.08-18.18.51:033][241]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   21 times, average 8.21 sec, max 12.61 sec, min 6.69 sec)
+[2023.04.08-18.18.51:033][241]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled   10 times, average 8.05 sec, max 12.31 sec, min 3.77 sec)
+[2023.04.08-18.18.51:033][241]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   21 times, average 7.75 sec, max 11.01 sec, min 6.54 sec)
+[2023.04.08-18.18.51:033][241]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   10 times, average 7.74 sec, max 12.30 sec, min 3.51 sec)
+[2023.04.08-18.18.51:033][241]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.08-18.18.51:033][241]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.33% of total time (compiled  150 times, average 2.47 sec, max 10.07 sec, min 1.91 sec)
+[2023.04.08-18.18.51:033][241]LogShaderCompilers: Display:                                       FRenderSkyAtmospherePS - 3.63% of total time (compiled  448 times, average 0.47 sec, max 1.89 sec, min 0.25 sec)
+[2023.04.08-18.18.51:033][241]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 3.37% of total time (compiled   29 times, average 6.80 sec, max 9.92 sec, min 3.71 sec)
+[2023.04.08-18.18.51:033][241]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 3.16% of total time (compiled    6 times, average 30.89 sec, max 67.20 sec, min 4.50 sec)
+[2023.04.08-18.18.51:033][241]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.14% of total time (compiled   31 times, average 5.93 sec, max 11.64 sec, min 0.72 sec)
+[2023.04.08-18.18.51:033][241]LogShaderCompilers: Display: ================================================
+[2023.04.08-18.19.00:496][780]LogEditorViewport: Clicking Background
+[2023.04.08-18.19.07:279][175]LogViewport: Scene viewport resized to 1523x858, mode Windowed.
+[2023.04.08-18.19.16:439][623]LogEditorViewport: Clicking Background
+[2023.04.08-18.19.23:836][ 25]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2023.04.08-18.19.29:983][351]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2023.04.08-18.19.38:732][870]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2023.04.08-18.19.58:531][  2]Cmd: TRANSACTION UNDO
+[2023.04.08-18.19.58:531][  2]LogEditorTransaction: Undo Edit Intensity
+[2023.04.08-18.20.25:470][563]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2023.04.08-18.20.25:474][563]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2023.04.08-18.20.27:920][704]LogObjectTools: Deleting 1 worlds: /Game/FirstWorld.FirstWorld
+[2023.04.08-18.20.27:920][704]LogObjectTools: Currently 1 active worlds: /Game/FirstWorld.FirstWorld
+[2023.04.08-18.20.29:469][704]LogSlate: Window 'Unable to delete level' being destroyed
+[2023.04.08-18.20.29:474][704]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2023.04.08-18.20.32:239][869]Cmd: TRANSACTION UNDO
+[2023.04.08-18.20.32:239][869]LogEditorTransaction: Undo Add Actor
+[2023.04.08-18.20.32:482][873]Cmd: TRANSACTION UNDO
+[2023.04.08-18.20.32:482][873]LogEditorTransaction: Undo Add Actor
+[2023.04.08-18.20.32:689][877]Cmd: TRANSACTION UNDO
+[2023.04.08-18.20.32:689][877]LogEditorTransaction: Undo Add Actor
+[2023.04.08-18.20.32:897][886]Cmd: TRANSACTION UNDO
+[2023.04.08-18.20.32:897][886]LogEditorTransaction: Undo Clicking Background
+[2023.04.08-18.20.48:027][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.08-18.20.50:412][755]LogSlate: Window 'Save Content' being destroyed
+[2023.04.08-18.20.50:617][755]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.04.08-18.20.50:617][755]Cmd: MAP LOAD FILE="C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.04.08-18.20.50:617][755]LightingResults: New page: Lighting Build
+[2023.04.08-18.20.50:617][755]LoadErrors: New page: Loading map: VRTemplateMap.umap
+[2023.04.08-18.20.50:659][755]LogWorld: UWorld::CleanupWorld for FirstWorld, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-18.20.50:660][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-18.20.50:660][755]MapCheck: New page: Map Check
+[2023.04.08-18.20.50:660][755]LightingResults: New page: Lighting Build
+[2023.04.08-18.20.50:666][755]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.08-18.20.50:668][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.04.08-18.20.50:670][755]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-18.20.50:670][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-18.20.50:678][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.08-18.20.50:687][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.04.08-18.20.50:701][755]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2023.04.08-18.20.50:701][755]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-18.20.50:701][755]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.08-18.20.50:926][755]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.08-18.20.50:935][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.08-18.20.50:946][755]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.08-18.20.50:946][755]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2023.04.08-18.20.50:946][755]LogFileHelpers: Loading map 'VRTemplateMap' took 0.329
+[2023.04.08-18.20.54:948][984]LogObjectTools: Deleting 1 worlds: /Game/FirstWorld.FirstWorld
+[2023.04.08-18.20.54:948][984]LogObjectTools: Currently 2 active worlds: /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap, /Engine/Transient.World_0
+[2023.04.08-18.20.54:992][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.04.08-18.20.56:285][984]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.08-18.20.56:290][984]LogWorld: UWorld::CleanupWorld for FirstWorld, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-18.20.56:290][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-18.20.56:347][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.08-18.20.56:354][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.04.08-18.20.56:361][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.04.08-18.21.15:090][ 29]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/VRTemplate/VRTemplateMap does not exist, will not scan.
+[2023.04.08-18.21.22:804][448]LogContentBrowser: Attempting asset rename: VRTemplateMap -> FirstWorld
+[2023.04.08-18.21.22:939][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.08-18.21.23:044][448]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-18.21.23:060][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.08-18.21.23:082][448]LogSavePackage: Moving output files for package: /Game/VRTemplate/FirstWorld
+[2023.04.08-18.21.23:082][448]LogSavePackage: Moving 'C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Saved/FirstWorld40DAEC864B4EA31FFAA7CF9E618C810F.tmp' to 'C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/VRTemplate/FirstWorld.umap'
+[2023.04.08-18.21.23:099][448]LogFileHelpers: Saving map 'FirstWorld' took 0.056
+[2023.04.08-18.21.23:107][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 518 ms)
+[2023.04.08-18.21.23:118][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.08-18.21.23:124][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.08-18.21.23:130][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.04.08-18.21.23:135][448]AssetCheck: New page: Asset Save: FirstWorld
+[2023.04.08-18.21.23:135][448]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/FirstWorld.FirstWorld
+[2023.04.08-18.21.25:906][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.08-18.21.26:017][595]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-18.21.26:034][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.08-18.21.26:054][595]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/FirstWorld
+[2023.04.08-18.21.26:054][595]LogSavePackage: Moving 'C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Saved/FirstWorld94AD27AA48B6CE9DBF31C5806CE6A584.tmp' to 'C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/VRTemplate/Maps/FirstWorld.umap'
+[2023.04.08-18.21.26:070][595]LogFileHelpers: Saving map 'FirstWorld' took 0.054
+[2023.04.08-18.21.26:079][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 691 ms)
+[2023.04.08-18.21.26:090][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.08-18.21.26:098][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.04.08-18.21.26:104][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.04.08-18.21.26:164][595]AssetCheck: New page: Asset Save: FirstWorld
+[2023.04.08-18.21.26:164][595]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/FirstWorld.FirstWorld
+[2023.04.08-18.21.28:416][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.08-18.21.28:417][724]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VRTemplate/Maps/FirstWorld.FirstWorld
+[2023.04.08-18.21.28:417][724]Cmd: MAP LOAD FILE="C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/VRTemplate/Maps/FirstWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.04.08-18.21.28:417][724]LightingResults: New page: Lighting Build
+[2023.04.08-18.21.28:417][724]LoadErrors: New page: Loading map: FirstWorld.umap
+[2023.04.08-18.21.28:419][724]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-18.21.28:419][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-18.21.28:419][724]MapCheck: New page: Map Check
+[2023.04.08-18.21.28:419][724]LightingResults: New page: Lighting Build
+[2023.04.08-18.21.28:425][724]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.08-18.21.28:428][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.08-18.21.28:429][724]LogWorld: UWorld::CleanupWorld for FirstWorld, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-18.21.28:429][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-18.21.28:437][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.08-18.21.28:444][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.08-18.21.28:452][724]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstWorld'.
+[2023.04.08-18.21.28:452][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-18.21.28:453][724]LogAIModule: Creating AISystem for world FirstWorld
+[2023.04.08-18.21.28:500][724]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.08-18.21.28:509][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.04.08-18.21.28:518][724]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.08-18.21.28:518][724]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.144ms to complete.
+[2023.04.08-18.21.28:518][724]LogFileHelpers: Loading map 'FirstWorld' took 0.102
+[2023.04.08-18.21.30:884][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.04.08-18.21.30:886][847]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VRTemplate/Maps/FirstWorld.FirstWorld
+[2023.04.08-18.21.30:886][847]Cmd: MAP LOAD FILE="C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/VRTemplate/Maps/FirstWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.04.08-18.21.30:886][847]LightingResults: New page: Lighting Build
+[2023.04.08-18.21.30:886][847]LoadErrors: New page: Loading map: FirstWorld.umap
+[2023.04.08-18.21.30:887][847]LogWorld: UWorld::CleanupWorld for FirstWorld, bSessionEnded=true, bCleanupResources=true
+[2023.04.08-18.21.30:888][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.08-18.21.30:888][847]MapCheck: New page: Map Check
+[2023.04.08-18.21.30:888][847]LightingResults: New page: Lighting Build
+[2023.04.08-18.21.30:894][847]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.08-18.21.30:896][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.04.08-18.21.30:905][847]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstWorld'.
+[2023.04.08-18.21.30:905][847]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.08-18.21.30:905][847]LogAIModule: Creating AISystem for world FirstWorld
+[2023.04.08-18.21.30:953][847]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.08-18.21.30:963][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.04.08-18.21.30:973][847]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.08-18.21.30:973][847]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.216ms to complete.
+[2023.04.08-18.21.30:973][847]LogFileHelpers: Loading map 'FirstWorld' took 0.088
