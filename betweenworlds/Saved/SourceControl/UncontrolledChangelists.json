@@ -5,15 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/horsa/Documents/Personal Projects/Between Worlds/between-worlds/betweenworlds/Content/VRTemplate/Blueprints/VRPawn.uasset",
-				"C:/Users/horsa/Documents/Personal Projects/Between Worlds/between-worlds/betweenworlds/Content/Blueprints/Enemy/BS_LichMove.uasset",
-				"C:/Users/horsa/Documents/Personal Projects/Between Worlds/between-worlds/betweenworlds/Content/Blueprints/Enemy/BP_Enemy.uasset",
-				"C:/Users/horsa/Documents/Personal Projects/Between Worlds/between-worlds/betweenworlds/Content/Blueprints/Enemy/ABP_Enemy.uasset",
-				"C:/Users/horsa/Documents/Personal Projects/Between Worlds/between-worlds/betweenworlds/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"C:/Users/horsa/Documents/Personal Projects/Between Worlds/between-worlds/betweenworlds/Content/Blueprints/Enemy/BP_Enemy.uasset",
 				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/FirstWorld.umap",
-				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/VRTemplate/FirstWorld.umap",
 				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/VRTemplate/Maps/FirstWorld.umap",
 				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Water/MI_Waterfall.uasset",
 				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Water/MI_WaterfallFoam_Main.uasset",
@@ -22,7 +14,16 @@
 				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Water/MI_WaterfallFoam_Variation.uasset",
 				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Water/MI_WaterfallVolumetric_01.uasset",
 				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Water/MI_Water_Lake.uasset",
-				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Foliage/MI_Grass_02.uasset"
+				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Foliage/MI_Grass_02.uasset",
+				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Foliage/MI_Grass_01.uasset",
+				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/DreamscapeSeries/SharedResources/Materials/Terrain/Deprecated/M_Water_Moving.uasset",
+				"C:/Users/horsa/Documents/Personal Projects/Between Worlds/between-worlds/betweenworlds/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/horsa/Documents/Personal Projects/Between Worlds/between-worlds/betweenworlds/Content/Blueprints/Enemy/BS_LichMove.uasset",
+				"C:/Users/horsa/Documents/Personal Projects/Between Worlds/between-worlds/betweenworlds/Content/Blueprints/Enemy/BP_Enemy.uasset",
+				"C:/Users/horsa/Documents/Personal Projects/Between Worlds/between-worlds/betweenworlds/Content/Blueprints/Enemy/ABP_Enemy.uasset",
+				"C:/Users/horsa/Documents/Personal Projects/Between Worlds/between-worlds/betweenworlds/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/FirstWorld.umap",
+				"C:/Users/bonit/Documents/_School/2023 _Spring/GameJam/between-worlds/betweenworlds/Content/VRTemplate/FirstWorld.umap"
 			]
 		}
 	]
