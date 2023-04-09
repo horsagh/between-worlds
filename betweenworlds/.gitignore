@@ -74,4 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Big texture files
-Content/beffio/Medieval_Kingdom/Content/Textures
+Content/beffio/Medieval_Kingdom/Content/Textures/*
